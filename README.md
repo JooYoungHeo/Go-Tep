@@ -1,2 +1,2 @@
-Go-Tep repository for Project SeongNamMon-Go
-===========================================
+Go-Tep repository
+=================
